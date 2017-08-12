@@ -1,0 +1,8 @@
+A name can have at most three parts: first name, middle name and last name. It will have at least one part. The last name is always present. The rules of formatting a name are very simple:
+
+Only the first letter of each part of the name should be capital.
+All the parts of the name except the last part should be represented by only two characters. The first character should be the first letter of the part and should be capitalized. The second character should be ".".
+
+gandhi -> Gandhi
+mahatma gandhI -> M. Gandhi
+Mohndas KaramChand ganDhi -> M. K. Gandhi
